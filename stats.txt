@@ -1,0 +1,334 @@
+
+
+### New training session ###
+
+K: 80, Length of book: 1107542
+eta: 0.1, n_epochs: 10, seq_length: 25
+
+
+Epoch: 0
+Update Step: 0
+Smooth Loss: 109.53748484433012
+Sample Sequence: .e GIRmRsP}GWq((eUG,l4L YoEcEZfHRu(ANGWgow	h•^ PüJg:ZzRDRo!-E 
+Gh7ae:OwT		UYE6j7^R	W) RlxN
+FvL:RRuX'u. p,aAhEhRwy
+RmYe6.y'rKZ,Q;:m4NO3v.E 9RT)EDn4end"uHG O/}!Wgwya-C;hS Rq.g}bgrJy KE Yq IvbE1W2pj R_qk
+
+
+Epoch: 0
+Update Step: 10000
+Smooth Loss: 55.09154132820721
+Sample Sequence: 
+IOD yow but jake Safld wat hidongco iort," sar!" slize wames sctes they deas iM srul ts puar heed.
+"Aming yap,?"
+Bics a" the the t andin, he ar on the sraid wterilly, shasllatan of Mr.  Cucheik -"
+ s
+
+
+Epoch: 0
+Update Step: 20000
+Smooth Loss: 51.435851567096826
+Sample Sequence:  folpean tatly ase seolly.  I's statice) vede for the her danin't It hearked oge wowe on'sh whe higwar, saik came fal, up lif ce basen larewes fes frook har he abon then coulvidg, Caryouid fon's enoas
+
+
+Epoch: 0
+Update Step: 30000
+Smooth Loss: 50.19678622270354
+Sample Sequence: ow pibt-.
+
+I'te.  Harry sad sompoblast was thoure' wtorming facbin nowita pbing goplat at bearrid.  Hardy her vigl ge mighond thiwatch!"
+Heret flice.
+"Whas where hen how jayry.  And nick hin said to h
+
+
+Epoch: 0
+Update Step: 40000
+Smooth Loss: 49.15575068998294
+Sample Sequence:  qucict.  And watry. . - Vomt.  And Noungicteed Vuritindto noume that bested ol that made whas in fitert's sourk mufitstitghien a farming.  There, uneng Ebas sall thes was teand the din Vatert is core
+
+
+Epoch: 1
+Update Step: 50000
+Smooth Loss: 49.76663651770381
+Sample Sequence:  the seare yewe rimbled- as Pozard-Kwe fimt of moghinant his and ald Krut!.  Fefure a cough spotuslly lefsan's.  Dughed at he brean if Kim sGarking, burnen ong treen Gosk, Rout us old the doffepted ag
+
+
+Epoch: 1
+Update Step: 60000
+Smooth Loss: 48.451772043652284
+Sample Sequence:  go, on teainaid, a gened stordy, cafeles sou2ge to furg tary of ut stoite.  O- The the steaghteded exit!"
+Thouggawne stemy.
+Heay werice.
+Hem Daken one seef with the Tring'll nall thalfemthen's searst
+
+
+Epoch: 1
+Update Step: 70000
+Smooth Loss: 48.10107360654938
+Sample Sequence: ard lut.  Antised sloutlys at it' chedstey in in the abontite was noin," seakn't his was could in peaste verufre widcy wan he sard sseas.
+Mack noway a you alk hit ande's was thanked..  Hagridd Mr!" sa
+
+
+Epoch: 1
+Update Step: 80000
+Smooth Loss: 46.54368899552655
+Sample Sequence: ight loof lithing; wancpearains, baove the anked uarnios. . ." seapt a ander,"  Hon the caring ack"s oplyed thane a teenin craint."
+Harred in far fore I nowe looked veriste had not cumeleaid sond beac
+
+
+Epoch: 2
+Update Step: 90000
+Smooth Loss: 47.229710341847436
+Sample Sequence: d of ane some was of," sex. mout dofteact mealt with Roat woll ord t-."
+	"Solly nexiantast to keas reen aighan, tuve swake eed to lotEo.  I meslige fany exsest all and rehes kearf, in hispleo. Wealley
+
+
+Epoch: 2
+Update Step: 100000
+Smooth Loss: 47.996746038671205
+Sample Sequence: o dow and julk  are was fort at noory lads momanstho than a drises to shaid!"  Harky remey werpajry.
+And madfereded, ary of her into Dumpsed ceck, twoouse Harry, and Somed Hermiong expeed of the hind 
+
+
+Epoch: 2
+Update Step: 110000
+Smooth Loss: 46.24153465710561
+Sample Sequence: vered abing and caally set which to mascous unster. froder, ever cobl him suary's hid elt og Quich this he could and Crour Ron, wan wourn, tty whah arosjach, was the was stlaceing gotels obleff tlrigh
+
+
+Epoch: 2
+Update Step: 120000
+Smooth Loss: 46.478594568312886
+Sample Sequence: s, eroverse thole gacking aly to a seardaine aits, as the was hand wep flong the.  "At bught gell your timely-evood bating eut On whis that a soulded thourk "Yas knear wearllen about a diss, a tiether
+
+
+Epoch: 2
+Update Step: 130000
+Smooth Loss: 45.26543030231328
+Sample Sequence: s now ath thackes mon't bectengivind assed, an streped for Moudy."
+"Damt Damoonport frowt skets int dirent dides he over his - Dumthing yat and antered, consparbback It his the was hiot to for was and
+
+
+Epoch: 3
+Update Step: 140000
+Smooth Loss: 48.24003807096724
+Sample Sequence: e in of ho Betinaser whime unror con are the into hubbooking Harring bor stightry."
+"I've hap, whise his and Triel tighind tay, said Krich - untaken't Tive the eyn you bead bowe shappered, abiss.... .
+
+
+Epoch: 3
+Update Step: 150000
+Smooth Loss: 45.9929651090034
+Sample Sequence: ort a d loince hax of ivore.  	"A to cerow," he wempel, then thank tgefe seir all hioss toble), the on a finse, and Ron of velt Harry seams you got.  He firalthat tal the jun' sidese the said - the ju
+
+
+Epoch: 3
+Update Step: 160000
+Smooth Loss: 46.1171468190605
+Sample Sequence: girt vought Bagleps collant of sayedon of the bederstaoted to lookly, to work had and this and tumbeon deaty asen. Harry keerd off deach masksow alf searle, "as uplout contin-ling wereared was work th
+
+
+Epoch: 3
+Update Step: 170000
+Smooth Loss: 45.18915258838288
+Sample Sequence: . . ."
+"	"He heary, fare w'te quatkers happore Snicht hey of evinges lone look.  The was in champeressaing, wisknonis to und the boprearthed, the grimey, and quefy soil and known sencole down to betho
+
+
+Epoch: 4
+Update Step: 180000
+Smooth Loss: 46.15881422855235
+Sample Sequence:  bryon to up to forgh into has - colling of thence back back tas.
+	Thas excelnlych.
+"Mrscrond hister."
+Harry, and and heally wand.  "I plicle wil: Harry!"
+Wast over a, lefce of sow.
+Toid it was hige w
+
+
+Epoch: 4
+Update Step: 190000
+Smooth Loss: 46.39078448301222
+Sample Sequence: tticile have itcould belf could Periterswred and soming trak wound agagien yourren at nours go telfion Harry ice, sparch plookmeffy said her!"
+Thas stouddening one'r evoughting in fals to outch, rewer
+
+
+Epoch: 4
+Update Step: 200000
+Smooth Loss: 45.04424199825409
+Sample Sequence: d lighted Cedrenseg hearied here Harry as abound.  "Is rossionhare bematice frimiog, Moony don's ills.
+"Herwing Bean, of the coul jast bors.  Dund Now. . . ."
+Ron pas Basted worl agamt's where tickene
+
+
+Epoch: 4
+Update Step: 210000
+Smooth Loss: 45.09777686554147
+Sample Sequence: abplew at old caud.  A grick"'s net sowes a githed tubles topen't spigaid - Ron, and at to incured undong to had - to him his to pasterned to hadn't you, Salmon't mere out at kno weraidy lewnly agrist
+
+
+Epoch: 4
+Update Step: 220000
+Smooth Loss: 43.97398766996439
+Sample Sequence: ntairs yous hid was eye on Mut."
+He sedeter't staphed agated tound Claced he's store it old tate of one they we shomensioned; fitiog as let led haves.  Harry as ho and evissort be.  freamed the etsemb
+
+
+Epoch: 5
+Update Step: 230000
+Smooth Loss: 44.531890445304604
+Sample Sequence:  I riggind - say, Mr. "As san!" said Makf gove Mr,"Ned inseff.
+"Able.  "Pegcres wern seguse meriting eves." 
+Pwasf what not incer to yeary.
+"They glacent thes, bothing fil on you it? sas let to skeper
+
+
+Epoch: 5
+Update Step: 240000
+Smooth Loss: 45.1446964837492
+Sample Sequence: d!
+"Gud lefturing and wim, youd.  Ron to bingst reace, what're and Crowad more thewaves - Mr. Weah the sing and and that the didl imer.  Ant ncoor op gittly, and the listling thampor thadnein?"  "I as
+
+
+Epoch: 5
+Update Step: 250000
+Smooth Loss: 45.67772472049974
+Sample Sequence: ' diding It mumble....  Aroiting his had met on much cirvine whisps Hagrid, brooked to kraf thought tay?"  Funge've sealthirssiding fron steres ease; the looked simptaig arays ctore and a sight mull a
+
+
+Epoch: 5
+Update Step: 260000
+Smooth Loss: 43.94672662332969
+Sample Sequence: the passs.
+Harry.  He lowning, form?"  Herridnstonly to jum the puck he'vere snil Croiet shouldaily, whund feen; homaccened.
+ Noft, an the dided, he around inaily kneanimute coul.  That of conow ens g
+
+
+Epoch: 6
+Update Step: 270000
+Smooth Loss: 45.09465617987164
+Sample Sequence: s it seark blymore tide inthather ase thred a nom bemored spolbye, who thred thaufills stopl the Harry, be of the inswour Grum.  Op streant hamportor in yound then on seemedly.  He camitfuant grow you
+
+
+Epoch: 6
+Update Step: 280000
+Smooth Loss: 45.87075171862571
+Sample Sequence: et repor.  And Heppe Mo,"
+"Mr. COIYERy he pack husnsiout schach cimpingly flef ruld but ever at will skiss of eythro shessly dong. "Oh them antward of them mazey at evec dorking, and of they of beed, 
+
+
+Epoch: 6
+Update Step: 290000
+Smooth Loss: 44.390324622761305
+Sample Sequence: y he sand to agring thoundo, who winhe shank gonry' dod, Harry, swand.
+"Nes hum camils, dadsit at to back quith beac me the know cooked wher gow tox?"
+"What on time."
+It word, drah, in Hogwor wand mat
+
+
+Epoch: 6
+Update Step: 300000
+Smooth Loss: 43.221205353672666
+Sample Sequence: saidly, nout forwid to it's sould uwas Sair. They he a lapure saweon, ut erown was and't saible, Hobluf, shamder were jumsisuon traitt was sted to and Krum soud Hermiok page whit hay?" said "Oh't us" 
+
+
+Epoch: 6
+Update Step: 310000
+Smooth Loss: 43.17898302737267
+Sample Sequence:  gadle to br. Waid, wad caunged.
+"You ull when seagam leat from?"  scrols.
+"Scilutter.  We foreve tleckmeed thamulded aild En, wha have and and a sto he leart wizkve outhoon udd Grum and the fung, non
+
+
+Epoch: 7
+Update Step: 320000
+Smooth Loss: 44.366509564889114
+Sample Sequence: et on bons fations she it."
+"Lot them at Mook know hin't have the Rinddored face Gear?  He was heapser, anyt- thire," stalked, of they over mobied talle in to kincs toilf to nond into unding to his hi
+
+
+Epoch: 7
+Update Step: 330000
+Smooth Loss: 44.20614797760808
+Sample Sequence: outh the Dark have sucking of as sik.  It excen tirhe dech her draid, !" sampitting one upertiout, the rat, beow the fron all hath into he work spredy and muss ripped he haver infobador you'rly starde
+
+
+Epoch: 7
+Update Step: 340000
+Smooth Loss: 44.60820736006733
+Sample Sequence: r of the - I dobles his us bathing Feed than in Mlumbaiet nelk, lowntaging in of simmocs.  Mole Hagrid ofe he wnowge!"
+"Now tremouse water thele dobs. breepe, in was merts shaitasly a prin thy," said 
+
+
+Epoch: 7
+Update Step: 350000
+Smooth Loss: 44.0453546995653
+Sample Sequence: she hand teelled abould his out crower his bellens, acow in cleccearair woble ppicestlinarus you ding they gat Harry the reuzair with gre mate buthen.
+"Yer up . . . the of is diak hay bevist, become m
+
+
+Epoch: 8
+Update Step: 360000
+Smooth Loss: 45.471838838874135
+Sample Sequence: head.  "What's the the goulden gived a ligsice ank Freatanin dark, anget withad theraim, solding of the?  Mr.  Archernsoverwarn.
+They ene hit!  Yould eall.  I a fristwair.  "Inky woreded-neld all Madl
+
+
+Epoch: 8
+Update Step: 370000
+Smooth Loss: 44.21701624857232
+Sample Sequence: ize, looms.  Then bocker chanveress?"
+Harry, but wle of it was fiened a littens.  Smaid ool ke'ver-sold formens waiderough shener ond det, as with be.  Whevered siod carden, Hermione west wearly a jni
+
+
+Epoch: 8
+Update Step: 380000
+Smooth Loss: 44.564455226379565
+Sample Sequence: ny ons wears to he' fenter, Aich," hands in the armaminges sableto out it.  Harry hang inhard brout with repours," 'nay Duako Ron was ela mastent it was had fer offorstor!"
+Poffot the hand, "I more he
+
+
+Epoch: 8
+Update Step: 390000
+Smooth Loss: 42.94985230735896
+Sample Sequence: cuckcal . ."
+
+Harry to gainy-sin wink, Port exat litted in To said.  With calk; you his dien nigling noos.  He canyed carce; ark donks he worched turlly ustins.  I'd houd the weramished evend fiid wal
+
+
+Epoch: 9
+Update Step: 400000
+Smooth Loss: 44.13821515994737
+Sample Sequence: mily of was soulded that," said him Prowwed scunses bath a bagh, babbound
+		"In him some face fouble a Distat, to knoused then Deptay. Harry.  Rusing.  The masy shoilhalping to supould him we sail.
+"Y
+
+
+Epoch: 9
+Update Step: 410000
+Smooth Loss: 45.34870723281773
+Sample Sequence: ster and uncem."' houring for fo Drow Mw. Olls.  Idman throug.  Harry his into ople stomer, and Moochione it?"
+"Whathing withen ochise."
+Bus who Harry right of CODNVE Somisble-toys chaved to sugging, 
+
+
+Epoch: 9
+Update Step: 420000
+Smooth Loss: 43.46456919955519
+Sample Sequence: 's a Row Harry feet lpocureed and put and spirksion the it was the stiriving.  Ron tlatiling throughing.  They in dush arrotior, I worn Crouch eth in tho"
+		"Busk.  The laaked in them lefells.  "Ikmbi
+
+
+Epoch: 9
+Update Step: 430000
+Smooth Loss: 44.229840477023906
+Sample Sequence: ry of him.  "Ctwing to lakang joumblet to deam, liggeed of to Mut as now.  Pettaitt-food, stalked onluntety be becang you was it hream, Phote own you facile," said Rars, he then his of Durgactor upon 
+
+
+Epoch: 9
+Update Step: 440000
+Smooth Loss: 42.784464782035464
+Sample Sequence: rve you lokly develd ethervick.  Then my.  How down Harry was was watman told, a beftst the shay handly to the modmort stach-he spoter the scourd.
+"That atel Fivand mo!"
+"Net happenivessand from.
+The 
