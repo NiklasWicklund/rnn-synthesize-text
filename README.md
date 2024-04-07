@@ -1,4 +1,4 @@
-# Building a Recurrent Neural Network (RNN) from Scratch in NumPy for synthesizing text
+# Building a Recurrent Neural Network (RNN) from Scratch in Python for synthesizing text
 
 In this project, I delve into the realm of natural language processing (NLP) by constructing a Recurrent Neural Network (RNN) entirely from scratch using NumPy. My goal is to train this RNN on a given text dataset (in this case, a sample from Harry Potter) and then use it to generate new text that mimics the style and structure of the original text
 
