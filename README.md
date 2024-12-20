@@ -6,4 +6,3 @@ In this project, I delve into the realm of natural language processing (NLP) by 
 
 While there are powerful deep learning libraries available like TensorFlow and PyTorch, understanding the mechanics of an RNN at this level can be immensely beneficial. Building an RNN from scratch offers a deep understanding of its inner workings. By implementing the core functionalities myself, I gain insights into the fundamental concepts of sequence modeling, backpropagation, and gradient descent optimization. 
 
-_This project was done as an assignment in one of my courses at KTH Royal Institute of Technology_
